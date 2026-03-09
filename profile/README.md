@@ -73,9 +73,9 @@ I am currently open to **consulting opportunities, architecture reviews, and ful
 
 If you are a hiring manager or client reviewing this portfolio, I would be happy to walk you through the codebase of any of these projects on a brief technical call to demonstrate my architecture and code quality.
 
-- **Email:** [your-professional-email@example.com](mailto:your-professional-email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-- **Website / Services:** [your-portfolio-website.com](https://your-portfolio-website.com)
+- **Email:** [renee.llup@gmail.com](mailto:[EMAIL_ADDRESS])
+- **LinkedIn:** [linkedin.com/in/renee-llup-576229250](https://www.linkedin.com/in/renee-llup-576229250)
+- **Website / Services:** [https://www.renee-llup.com/](https://www.renee-llup.com/)
 
 ---
 
