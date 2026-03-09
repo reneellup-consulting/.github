@@ -75,7 +75,7 @@ If you are a hiring manager or client reviewing this portfolio, I would be happy
 
 - **Email:** [renee.llup@gmail.com](mailto:[EMAIL_ADDRESS])
 - **LinkedIn:** [linkedin.com/in/renee-llup-576229250](https://www.linkedin.com/in/renee-llup-576229250)
-- **Website / Services:** [https://www.renee-llup.com/](https://www.renee-llup.com/)
+- **Website / Services:** [https://www.renee-llup.com](https://www.renee-llup.com/)
 
 ---
 
