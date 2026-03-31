@@ -26,7 +26,7 @@ As a full-stack engineer and consultant, I architect systems from the database a
 
 _(Reviewers: Please explore the highlighted projects below for detailed architectural breakdowns of systems I have designed and deployed from the ground up.)_
 
-### 📱 [Aprvel: Enterprise Mobile PO Approval Platform](./aprvel)
+### 📱 [Aprvel: Enterprise Mobile PO Approval Platform](https://github.com/reneellup-consulting/AproVel)
 
 Untethered executives from desktop ERPs by building a comprehensive mobile approval workflow system.
 
@@ -34,7 +34,7 @@ Untethered executives from desktop ERPs by building a comprehensive mobile appro
 - **Tech Stack:** React Native, Expo, TypeScript, Hono, Appwrite, C# / .NET Sync Engine.
 - **Highlight:** Developed a custom C# background synchronization console that autonomously replicates local SQL Server records to the cloud database without disrupting legacy daily operations.
 
-### 🚜 [FarmEase: Cross-Platform Agri-Tech ERP](./farmease_230508)
+### 🚜 [FarmEase: Cross-Platform Agri-Tech ERP](https://github.com/reneellup-consulting/FarmEase)
 
 An end-to-end agricultural management platform designed to track farm assets, crop lifecycles, and field operations.
 
@@ -42,7 +42,7 @@ An end-to-end agricultural management platform designed to track farm assets, cr
 - **Tech Stack:** C#, .NET MAUI, Blazor Server, DevExpress XAF, SQLite.
 - **Highlight:** Designed complex relational business models to track physical farm operations (planting to harvest) and pushed data to mobile devices for field workers using local SQLite databases.
 
-### 🗺️ [Tracktr: Real-Time GPS Fleet Tracking](./tracktr-web)
+### 🗺️ [Tracktr: Real-Time GPS Fleet Tracking](https://github.com/reneellup-consulting/TrackTr)
 
 A comprehensive, real-time web application designed to monitor and manage logistics fleets and assets.
 
@@ -50,7 +50,7 @@ A comprehensive, real-time web application designed to monitor and manage logist
 - **Tech Stack:** React.js, Redux, WebSockets, REST APIs, Interactive Mapping.
 - **Highlight:** Implemented WebSocket integrations to stream live GPS coordinates, vehicle speeds, and engine statuses directly to a dynamic map dashboard with zero latency.
 
-### 🚛 [GAVELISv2: Comprehensive Logistics ERP System](./link-to-repo)
+### 🚛 [GAVELISv2: Comprehensive Logistics ERP System](https://github.com/reneellup-consulting/GavelIS)
 
 Architected and developed a full-scale Enterprise Resource Planning (ERP) and Logistics system from the ground up for a major transport and hauling enterprise.
 
@@ -58,7 +58,7 @@ Architected and developed a full-scale Enterprise Resource Planning (ERP) and Lo
 - **Tech Stack:** C#, .NET Framework, DevExpress XAF, DevExpress XPO / ORM, Microsoft SQL Server.
 - **Highlight:** Automated complex payroll structures by integrating raw biometric time-logs and computing variable trip-based trucker pay seamlessly into the General Ledger.
 
-### ☁️ [Automated Cloud Backup Service (Windows Service)](./gavelbackupgdriveuploader)
+### ☁️ [Automated Cloud Backup Service (Windows Service)](https://github.com/reneellup-consulting/gavelis-cloud-backup)
 
 Engineered a secure, automated background service to ensure disaster recovery compliance by syncing local enterprise backups to cloud storage.
 
